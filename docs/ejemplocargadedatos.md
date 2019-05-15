@@ -9,5 +9,5 @@ Para iniciar la carga de datos fuentes, hay que realizar los siguientes pasos:
 
 ## Video
 
-![Carga de archivo](_images/deploy-github-pages.png)
+![Carga de archivo](_images/ejemplocargadedatos.gif)
 
