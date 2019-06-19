@@ -6,3 +6,4 @@ services:
       - ./docs:/usr/local/docsify
     ports:
       - 3199:3000
+    network_mode: bridge
