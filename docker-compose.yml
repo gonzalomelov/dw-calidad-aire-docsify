@@ -11,4 +11,4 @@ services:
     - traefik.backend=docs
     - traefik.frontend.rule=Host:docs.bieccamvd.com
     - traefik.docker.network=bridge
-    - traefik.port=3199
+    - traefik.port=3000
