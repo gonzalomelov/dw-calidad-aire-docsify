@@ -7,3 +7,8 @@ services:
     ports:
       - 3199:3000
     network_mode: bridge
+    labels:
+    - traefik.backend=docs
+    - traefik.frontend.rule=Host:docs.bieccamvd.com
+    - traefik.docker.network=bridge
+    - traefik.port=3199
