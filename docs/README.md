@@ -11,8 +11,11 @@ Manual de uso sobre las distintas herramientas y procedimientos utilizados en el
 - Uso de la herramienta de Business Intelligence Pentaho
 - Carga de archivos fuente de datos para la actualización del sistema
 
-## Aplicaciones
+## Documentación en PDF
 
-- [Pentaho](http://localhost:8080/pentaho/Login)
-- [Backoffice](http://localhost:3001)
-- [Repositorio de archivos](http://localhost:8334/files/)
+- [Sistema de BI](_images/Sistemas_de_BI.pdf)
+- [Interfaz de Usuario](_images/Interfaz_de_Usuario.pdf)
+- [Despliegue Monitoreo Y Metricas](_images/Despliegue_Monitoreo_Y_Metricas.pdf)
+- [Análisis](_images/Analisis.pdf)
+- [Arquitectura](_images/Arquitectura.pdf)
+- [Diseño](_images/Diseno.pdf)
