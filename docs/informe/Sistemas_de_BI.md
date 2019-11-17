@@ -55,7 +55,9 @@ de nicho. En la misma se diferencian del resto en que normalmente están
 especializados en segmentos muy específicos de su mercado o trabajan
 exclusivamente en sectores verticalizados.
 
-![[\[fig:gartner\]]{#fig:gartner label="fig:gartner"}Cuadrante mágico de Gartner [@Magic_Quadrant_for_Data_Integration_Tools]](_images/informe/gartner.jpg){width="70%"}
+![\[\[fig:gartner\]\]{#fig:gartner label="fig:gartner"}Cuadrante mágico de
+Gartner
+[@Magic_Quadrant_for_Data_Integration_Tools]](Imagenes/gartner.jpg){width="70%"}
 
 La implantación de estos sistemas de información proporciona diversos
 beneficios, entre los que podemos destacar:
@@ -91,7 +93,9 @@ beneficios, entre los que podemos destacar:
 
     3.  Tener mayor agilidad en la toma de las decisiones.
 
-![[\[fig:circulo\_virtuoso\]]{#fig:circulo_virtuoso label="fig:circulo_virtuoso"}Círculo Virtuoso - Análisis de Datos](_images/informe/circulo_virtuoso.png){width="60%"}
+![\[\[fig:circulo\_virtuoso\]\]{#fig:circulo_virtuoso
+label="fig:circulo_virtuoso"}Círculo Virtuoso - Análisis de
+Datos](Imagenes/circulo_virtuoso.png){width="60%"}
 
 Proceso de desarrollo de los sistemas de BI {#business_intelligence_development_process}
 -------------------------------------------
@@ -137,7 +141,8 @@ Las tareas de esta metodología (ciclo de vida) se describen en
 [\[fig:kimball\]](#fig:kimball){reference-type="ref"
 reference="fig:kimball"}:
 
-![[\[fig:kimball\]]{#fig:kimball label="fig:kimball"}Ciclo de Vida Dimensional del Negocio](_images/informe/kimball.jpg){width="70%"}
+![\[\[fig:kimball\]\]{#fig:kimball label="fig:kimball"}Ciclo de Vida
+Dimensional del Negocio](Imagenes/kimball.jpg){width="70%"}
 
 ### Planificación y Arquitectura {#sec:business_intelligence_development_process_planning_architecture}
 
@@ -260,7 +265,9 @@ reference="fig:arquitectura_malinowski"} se puede observar la
 arquitectura típica de un Data Warehouse según Malinowski
 [@malinowski2008advanced], que consta de los siguientes componentes:
 
-![[\[fig:arquitectura\_malinowski\]]{#fig:arquitectura_malinowski label="fig:arquitectura_malinowski"} Arquitectura](_images/informe/arquitectura_malinowski.png){width="80%"}
+![\[\[fig:arquitectura\_malinowski\]\]{#fig:arquitectura_malinowski
+label="fig:arquitectura_malinowski"}
+Arquitectura](Imagenes/arquitectura_malinowski.png){width="80%"}
 
 *Fuentes de datos*
 

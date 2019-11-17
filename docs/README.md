@@ -13,9 +13,9 @@ Manual de uso sobre las distintas herramientas y procedimientos utilizados en el
 
 ## Documentación en PDF
 
-- [Sistema de BI](_images/Sistemas_de_BI.pdf ':ignore')
-- [Interfaz de Usuario](_images/Interfaz_de_Usuario.pdf ':ignore')
-- [Despliegue Monitoreo Y Metricas](_images/Despliegue_Monitoreo_Y_Metricas.pdf ':ignore')
+- [Sistemas de BI](_images/Sistemas_de_BI.pdf ':ignore')
+- [Interfaz de usuario](_images/Interfaz_de_Usuario.pdf ':ignore')
+- [Despliegue, monitoreo y métricas](_images/Despliegue_Monitoreo_Y_Metricas.pdf ':ignore')
 - [Análisis](_images/Analisis.pdf ':ignore')
 - [Arquitectura](_images/Arquitectura.pdf ':ignore')
 - [Diseño](_images/Diseno.pdf ':ignore')
