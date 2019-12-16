@@ -13,6 +13,6 @@
 
   - [Trabajo a futuro](informe/Trabajo_A_Futuro.md)
 
-- Backoffice
+- Manual de Usuario
 
   - [Carga de datos](ejemplocargadedatos.md)
